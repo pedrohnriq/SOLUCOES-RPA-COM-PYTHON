@@ -1,0 +1,34 @@
+Para: rfernandes@example.org
+Assunto: Relatório Gerencial - Emanuel Sampaio
+
+Olá, Emanuel Sampaio.
+
+Segue o relatório consolidado da sua área (MARKETING).
+
+=== BLOCO 1 - Projetos sob sua responsabilidade ===
+Total de projetos: 4
+  - Em andamento: 0
+  - Atrasado: 1
+  - Concluído dentro do prazo: 0
+  - Concluído com atraso: 3
+Percentual médio de execução (projetos ainda não concluídos): 85.0%
+Tempo médio de duração dos projetos concluídos: 272.7 dias
+Valor total orçado: R$ 584.086,74
+
+=== BLOCO 2 - Pendências de treinamento da sua área ===
+Total de treinamentos: 17
+Treinamentos pendentes: 3
+Treinamentos vencidos: 8
+Percentual de conformidade: 35.3%
+
+Colaboradores com treinamento vencido (cobrança imediata):
+  - Ana Cecília Pinto
+  - Hellena Cavalcanti
+  - Pedro Henrique Ferreira
+  - Ravy Câmara
+  - Sr. Anthony Marques
+  - Thiago Das Neves
+  - Vitória Albuquerque
+  - Zoe Rodrigues
+
+Relatório gerado automaticamente pela automação RPA.

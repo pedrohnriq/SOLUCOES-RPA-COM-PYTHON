@@ -1,0 +1,31 @@
+Para: samuel32@example.net
+Assunto: Relatório Gerencial - Brenda Alves
+
+Olá, Brenda Alves.
+
+Segue o relatório consolidado da sua área (COMERCIAL).
+
+=== BLOCO 1 - Projetos sob sua responsabilidade ===
+Total de projetos: 6
+  - Em andamento: 0
+  - Atrasado: 3
+  - Concluído dentro do prazo: 2
+  - Concluído com atraso: 1
+Percentual médio de execução (projetos ainda não concluídos): 48.3%
+Tempo médio de duração dos projetos concluídos: 25.7 dias
+Valor total orçado: R$ 896.448,42
+
+=== BLOCO 2 - Pendências de treinamento da sua área ===
+Total de treinamentos: 26
+Treinamentos pendentes: 8
+Treinamentos vencidos: 5
+Percentual de conformidade: 50.0%
+
+Colaboradores com treinamento vencido (cobrança imediata):
+  - Cauê Souza
+  - Maria Liz Rocha
+  - Mateus Abreu
+  - Raquel Mendes
+  - Srta. Ísis Andrade
+
+Relatório gerado automaticamente pela automação RPA.

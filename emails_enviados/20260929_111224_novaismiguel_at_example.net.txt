@@ -1,0 +1,33 @@
+Para: novaismiguel@example.net
+Assunto: Relatório Gerencial - Igor Montenegro
+
+Olá, Igor Montenegro.
+
+Segue o relatório consolidado da sua área (OPERACOES).
+
+=== BLOCO 1 - Projetos sob sua responsabilidade ===
+Total de projetos: 7
+  - Em andamento dentro do prazo: 1
+  - Em andamento com atraso: 2
+  - Concluído dentro do prazo: 1
+  - Concluído com atraso: 3
+Percentual médio de execução (projetos ainda não concluídos): 65.0%
+Tempo médio de duração dos projetos concluídos: 127.2 dias
+Valor total orçado: R$ 1.059.257,63
+
+=== BLOCO 2 - Pendências de treinamento da sua área ===
+Total de treinamentos: 20
+Treinamentos pendentes: 1
+Treinamentos vencidos: 7
+Percentual de conformidade: 60.0%
+
+Colaboradores com treinamento vencido (cobrança imediata):
+  - Beatriz Aragão
+  - Gael Guerra
+  - Gustavo Rios
+  - Julia Andrade
+  - Leandro Fonseca
+  - Sofia Lima
+  - Srta. Liz Guerra
+
+Relatório gerado automaticamente pela automação RPA.

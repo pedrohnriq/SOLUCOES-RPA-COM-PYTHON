@@ -1,0 +1,132 @@
+colaborador_id,colaborador_nome,area,treinamento,status_treinamento,data_limite,gestor_id_area,gestor_area_responsavel,email_gestor_area
+C0001,Gael Correia,Recursos Humanos,Legislação Trabalhista,Pendente,31-10-2026,G006,Lucca Caldeira,garciagael@example.com
+C0002,melissa carvalho,comercial,LGPD Básico,Pendente,10/07/2026,G001,Brenda Alves,samuel32@example.net
+C0003,Emilly da Mota,Comercial,LGPD Básico,Concluído,2026-08-27,G001,Brenda Alves,samuel32@example.net
+C0004,Isadora Barbosa,Operações,LGPD Básico,Concluído,24/07/2026,G003,Igor Montenegro,novaismiguel@example.net
+C0005,Beatriz Aragão,Operações,Normas de Segurança do Trabalho (NR),,14/07/2026,G003,Igor Montenegro,novaismiguel@example.net
+C0006,Ágatha Albuquerque,COMERCIAL,CRM na Prática,Concluído,2026-08-05,G001,Brenda Alves,samuel32@example.net
+C0007,Isaac Cavalcante,Recursos Humanos,Legislação Trabalhista,Pendente,15-08-2026,G006,Lucca Caldeira,garciagael@example.com
+C0008,Raquel Mendes,Comercial,Técnicas de Negociação,,31-07-2026,G001,Brenda Alves,samuel32@example.net
+C0009,  Murilo Araújo  ,Recursos Humanos,Legislação Trabalhista,Concluído,23/08/2026,G006,Lucca Caldeira,garciagael@example.com
+C0010,Mateus Abreu,Comercial,CRM na Prática,,03/08/2026,G001,Brenda Alves,samuel32@example.net
+C0011,  Julia Viana  ,Operações,5S na Prática,Concluído,2026-10-06,G003,Igor Montenegro,novaismiguel@example.net
+C0012,Laura Lima,Financeiro,Compliance Financeiro,Concluído,04-10-2026,G004,Ísis Leão,manuelapastor@example.com
+C0013,Dra. Raquel Cassiano,  Tecnologia da Informação  ,LGPD Básico,Concluído,2026-11-14,G002,Yago Borges,bandrade@example.org
+C0014,Juan Cunha,FINANCEIRO,LGPD Básico,Pendente,2026-09-10,G004,Ísis Leão,manuelapastor@example.com
+C0015,Vitor Hugo Araújo,Financeiro,Compliance Financeiro,Pendente,26/11/2026,G004,Ísis Leão,manuelapastor@example.com
+C0016,Sra. Ana Laura Aragão,financeiro,LGPD Básico,Concluído,27-08-2026,G004,Ísis Leão,manuelapastor@example.com
+C0017,Pietra Montenegro,  Recursos Humanos  ,Legislação Trabalhista,Pendente,2026-11-13,G006,Lucca Caldeira,garciagael@example.com
+C0018,Eduarda Araújo,Financeiro,Prevenção à Lavagem de Dinheiro,Pendente,02/11/2026,G004,Ísis Leão,manuelapastor@example.com
+C0019,Anna Liz Cirino,Comercial,LGPD Básico,Concluído,2026-09-04,G001,Brenda Alves,samuel32@example.net
+C0020,Bernardo Rocha,Marketing,Marketing Digital Essencial,Concluído,2026-11-21,G005,Emanuel Sampaio,rfernandes@example.org
+C0021,Nathan Campos,Operações,LGPD Básico,Concluído,22-08-2026,G003,Igor Montenegro,novaismiguel@example.net
+C0022,  Isadora Pacheco  ,Tecnologia da Informação,Segurança da Informação,Concluído,04-11-2026,G002,Yago Borges,bandrade@example.org
+C0023,ana cecília pinto,MARKETING,Marketing Digital Essencial,Vencido,22-08-2026,G005,Emanuel Sampaio,rfernandes@example.org
+C0024,Otto Ribeiro,Marketing,LGPD Básico,Concluído,17/07/2026,G005,Emanuel Sampaio,rfernandes@example.org
+C0025,Stephany Dias,Recursos Humanos,Legislação Trabalhista,Concluído,2026-07-07,G006,Lucca Caldeira,garciagael@example.com
+C0026,Gustavo Rios,Operações,Normas de Segurança do Trabalho (NR),Vencido,06/09/2026,G003,Igor Montenegro,novaismiguel@example.net
+C0027,  Sra. Isabella da Luz  ,Financeiro,LGPD Básico,Concluído,17/07/2026,G004,Ísis Leão,manuelapastor@example.com
+C0028,Caroline Rios,Tecnologia da Informação,Segurança da Informação,Pendente,18/10/2026,G002,Yago Borges,bandrade@example.org
+C0029,  Letícia Marques  ,Marketing,Marketing Digital Essencial,Concluído,2026-10-25,G005,Emanuel Sampaio,rfernandes@example.org
+C0030,Sr. Anthony Marques,MARKETING,LGPD Básico,Pendente,2026-07-29,G005,Emanuel Sampaio,rfernandes@example.org
+C0031,Beatriz Barbosa,recursos humanos,LGPD Básico,Concluído,2026-08-17,G006,Lucca Caldeira,garciagael@example.com
+C0032,  Hadassa Montenegro  ,recursos humanos,Diversidade e Inclusão,Concluído,12/07/2026,G006,Lucca Caldeira,garciagael@example.com
+C0033,Davi Lucca Ferreira,Recursos Humanos,LGPD Básico,Vencido,2026-12-01,G006,Lucca Caldeira,garciagael@example.com
+C0034,Joaquim Freitas,Comercial,CRM na Prática,Concluído,11/08/2026,G001,Brenda Alves,samuel32@example.net
+C0035,Emanuel Macedo,Comercial,Técnicas de Negociação,Pendente,2026-11-26,G001,Brenda Alves,samuel32@example.net
+C0036,Liz Pimenta,Recursos Humanos,Legislação Trabalhista,Pendente,11/09/2026,G006,Lucca Caldeira,garciagael@example.com
+C0037,Vitória Albuquerque,MARKETING,LGPD Básico,Vencido,24-09-2026,G005,Emanuel Sampaio,rfernandes@example.org
+C0038,Letícia Ribeiro,Marketing,LGPD Básico,Vencido,10/09/2026,G005,Emanuel Sampaio,rfernandes@example.org
+C0039,  Davi Luiz da Luz  ,Financeiro,Prevenção à Lavagem de Dinheiro,Pendente,2026-09-13,G004,Ísis Leão,manuelapastor@example.com
+C0040,Cauê Souza,COMERCIAL,LGPD Básico,,2026-09-27,G001,Brenda Alves,samuel32@example.net
+C0041,Daniela da Mata,Financeiro,Prevenção à Lavagem de Dinheiro,Concluído,2026-10-14,G004,Ísis Leão,manuelapastor@example.com
+C0042,Gustavo Henrique Silva,Comercial,LGPD Básico,Concluído,02-08-2026,G001,Brenda Alves,samuel32@example.net
+C0043,Sr. João Montenegro,comercial,CRM na Prática,Vencido,30-10-2026,G001,Brenda Alves,samuel32@example.net
+C0044,  Isis Aragão  ,financeiro,Prevenção à Lavagem de Dinheiro,Concluído,2026-07-17,G004,Ísis Leão,manuelapastor@example.com
+C0045,Otávio da Mota,Recursos Humanos,Legislação Trabalhista,Concluído,03/09/2026,G006,Lucca Caldeira,garciagael@example.com
+C0046,Alexandre Farias,MARKETING,Marketing Digital Essencial,Concluído,2026-08-02,G005,Emanuel Sampaio,rfernandes@example.org
+C0047,João Castro,Recursos Humanos,Legislação Trabalhista,Concluído,2026-09-11,G006,Lucca Caldeira,garciagael@example.com
+C0048,  Sra. Mariane Novais  ,Tecnologia da Informação,LGPD Básico,,10/10/2026,G002,Yago Borges,bandrade@example.org
+C0049,Daniel Barbosa,Comercial,LGPD Básico,Pendente,2026-10-18,G001,Brenda Alves,samuel32@example.net
+C0050,Srta. Ísis Andrade,Comercial,LGPD Básico,Pendente,01/12/2026,G001,Brenda Alves,samuel32@example.net
+C0051,Sr. Pedro Cardoso,Financeiro,Prevenção à Lavagem de Dinheiro,Concluído,2026-09-27,G004,Ísis Leão,manuelapastor@example.com
+C0052,Leandro Fonseca,operações,Normas de Segurança do Trabalho (NR),Vencido,03/09/2026,G003,Igor Montenegro,novaismiguel@example.net
+C0053,Luiz Henrique Costela,Operações,5S na Prática,Concluído,09-10-2026,G003,Igor Montenegro,novaismiguel@example.net
+C0054,Isadora Rios,Tecnologia da Informação,LGPD Básico,Vencido,05/08/2026,G002,Yago Borges,bandrade@example.org
+C0055,LUIZ GUSTAVO VASCONCELOS,Financeiro,Compliance Financeiro,Concluído,28-10-2026,G004,Ísis Leão,manuelapastor@example.com
+C0056,Maria Luísa Pinto,Tecnologia da Informação,Segurança da Informação,Concluído,09-09-2026,G002,Yago Borges,bandrade@example.org
+C0057,Srta. Isabela Castro,Comercial,LGPD Básico,Vencido,17-11-2026,G001,Brenda Alves,samuel32@example.net
+C0047,João Castro,Recursos Humanos,Legislação Trabalhista,Concluído,2026-09-11,G006,Lucca Caldeira,garciagael@example.com
+C0048,  Sra. Mariane Novais  ,Tecnologia da Informação,LGPD Básico,,10/10/2026,G002,Yago Borges,bandrade@example.org
+C0049,Daniel Barbosa,Comercial,LGPD Básico,Pendente,2026-10-18,G001,Brenda Alves,samuel32@example.net
+C0050,Srta. Ísis Andrade,Comercial,LGPD Básico,Pendente,01/12/2026,G001,Brenda Alves,samuel32@example.net
+C0051,Sr. Pedro Cardoso,Financeiro,Prevenção à Lavagem de Dinheiro,Concluído,2026-09-27,G004,Ísis Leão,manuelapastor@example.com
+C0052,Leandro Fonseca,operações,Normas de Segurança do Trabalho (NR),Vencido,03/09/2026,G003,Igor Montenegro,novaismiguel@example.net
+C0053,Luiz Henrique Costela,Operações,5S na Prática,Concluído,09-10-2026,G003,Igor Montenegro,novaismiguel@example.net
+C0054,Isadora Rios,Tecnologia da Informação,LGPD Básico,Vencido,05/08/2026,G002,Yago Borges,bandrade@example.org
+C0055,LUIZ GUSTAVO VASCONCELOS,Financeiro,Compliance Financeiro,Concluído,28-10-2026,G004,Ísis Leão,manuelapastor@example.com
+C0056,Maria Luísa Pinto,Tecnologia da Informação,Segurança da Informação,Concluído,09-09-2026,G002,Yago Borges,bandrade@example.org
+C0057,Srta. Isabela Castro,Comercial,LGPD Básico,Vencido,17-11-2026,G001,Brenda Alves,samuel32@example.net
+C0058,  Noah Alves  ,Financeiro,Prevenção à Lavagem de Dinheiro,,21/07/2026,G004,Ísis Leão,manuelapastor@example.com
+C0059,Lucas Gabriel Viana,Recursos Humanos,LGPD Básico,Concluído,29/07/2026,G006,Lucca Caldeira,garciagael@example.com
+C0060,ISADORA DA MATA,financeiro,Compliance Financeiro,,2026-07-11,G004,Ísis Leão,manuelapastor@example.com
+C0061,Cauê Garcia,TECNOLOGIA DA INFORMAÇÃO,Segurança da Informação,Concluído,25/11/2026,G002,Yago Borges,bandrade@example.org
+C0062,Ravy Câmara,Marketing,Marketing Digital Essencial,Pendente,03/09/2026,G005,Emanuel Sampaio,rfernandes@example.org
+C0063,Raul Ferreira,Financeiro,Prevenção à Lavagem de Dinheiro,Concluído,2026-09-07,G004,Ísis Leão,manuelapastor@example.com
+C0064,Ian Câmara,Operações,5S na Prática,Concluído,22-07-2026,G003,Igor Montenegro,novaismiguel@example.net
+C0065,Gael Guerra,Operações,5S na Prática,,2026-09-06,G003,Igor Montenegro,novaismiguel@example.net
+C0066,Dr. Bernardo Vargas,  Financeiro  ,Compliance Financeiro,Concluído,2026-11-27,G004,Ísis Leão,manuelapastor@example.com
+C0067,Luiz Fernando Ramos,Comercial,CRM na Prática,Concluído,06-07-2026,G001,Brenda Alves,samuel32@example.net
+C0068,Maria Liz Rocha,comercial,CRM na Prática,Pendente,15/09/2026,G001,Brenda Alves,samuel32@example.net
+C0069,Luísa Alves,Recursos Humanos,LGPD Básico,Pendente,08-08-2026,G006,Lucca Caldeira,garciagael@example.com
+C0070,José Pedro Cavalcanti,Comercial,LGPD Básico,Pendente,12/07/2026,G001,Brenda Alves,samuel32@example.net
+C0071,  Julia Andrade  ,Operações,LGPD Básico,Pendente,2026-08-17,G003,Igor Montenegro,novaismiguel@example.net
+C0072,Pedro Henrique Ferreira,Marketing,Marketing Digital Essencial,Pendente,2026-09-07,G005,Emanuel Sampaio,rfernandes@example.org
+C0073,Sra. Maya Pereira,RECURSOS HUMANOS,Legislação Trabalhista,Pendente,31-10-2026,G006,Lucca Caldeira,garciagael@example.com
+C0074,Bruna Gomes,Recursos Humanos,Diversidade e Inclusão,Vencido,23/11/2026,G006,Lucca Caldeira,garciagael@example.com
+C0075,Esther da Cunha,Operações,5S na Prática,Concluído,06-10-2026,G003,Igor Montenegro,novaismiguel@example.net
+C0076,Pedro Henrique Abreu,Financeiro,Prevenção à Lavagem de Dinheiro,Vencido,31-07-2026,G004,Ísis Leão,manuelapastor@example.com
+C0077,Zoe Rodrigues,Marketing,Marketing Digital Essencial,Vencido,2026-08-29,G005,Emanuel Sampaio,rfernandes@example.org
+C0078,DRA. FERNANDA FONSECA,Recursos Humanos,Legislação Trabalhista,Pendente,2026-08-02,G006,Lucca Caldeira,garciagael@example.com
+C0079,ana lívia rios,Comercial,Técnicas de Negociação,Concluído,18-11-2026,G001,Brenda Alves,samuel32@example.net
+C0080,Dr. Davi Silveira,Recursos Humanos,Diversidade e Inclusão,Concluído,2026-08-12,G006,Lucca Caldeira,garciagael@example.com
+C0081,thiago das neves,marketing,Marketing Digital Essencial,Vencido,13/09/2026,G005,Emanuel Sampaio,rfernandes@example.org
+C0082,Maria Luísa Duarte,Operações,Normas de Segurança do Trabalho (NR),Vencido,2026-10-06,G003,Igor Montenegro,novaismiguel@example.net
+C0083,Laís Novaes,Comercial,LGPD Básico,Concluído,04/08/2026,G001,Brenda Alves,samuel32@example.net
+C0084,gael leão,RECURSOS HUMANOS,LGPD Básico,Pendente,09-07-2026,G006,Lucca Caldeira,garciagael@example.com
+C0085,MARIA HELENA ROCHA,Tecnologia da Informação,Segurança da Informação,Pendente,22/11/2026,G002,Yago Borges,bandrade@example.org
+C0086,SRTA. LIZ GUERRA,Operações,Normas de Segurança do Trabalho (NR),Pendente,04-07-2026,G003,Igor Montenegro,novaismiguel@example.net
+C0087,agatha da rosa,Operações,Normas de Segurança do Trabalho (NR),Concluído,10/07/2026,G003,Igor Montenegro,novaismiguel@example.net
+C0088,  Gustavo Henrique Lopes  ,Marketing,Marketing Digital Essencial,Concluído,09/09/2026,G005,Emanuel Sampaio,rfernandes@example.org
+C0089,Luna Martins,  Recursos Humanos  ,LGPD Básico,Concluído,04/10/2026,G006,Lucca Caldeira,garciagael@example.com
+C0090,Melina Rocha,Marketing,LGPD Básico,Pendente,14/11/2026,G005,Emanuel Sampaio,rfernandes@example.org
+C0091,Thomas Melo,Comercial,LGPD Básico,Pendente,2026-10-21,G001,Brenda Alves,samuel32@example.net
+C0092,srta. antonella da paz,Comercial,Técnicas de Negociação,Concluído,10-08-2026,G001,Brenda Alves,samuel32@example.net
+C0093,  Lívia Borges  ,Marketing,Marketing Digital Essencial,Concluído,16/11/2026,G005,Emanuel Sampaio,rfernandes@example.org
+C0094,Leonardo Câmara,recursos humanos,LGPD Básico,Vencido,22/11/2026,G006,Lucca Caldeira,garciagael@example.com
+C0095,Diogo Alves,financeiro,LGPD Básico,Pendente,2026-10-14,G004,Ísis Leão,manuelapastor@example.com
+C0096,Joaquim Melo,Recursos Humanos,Legislação Trabalhista,Concluído,12/08/2026,G006,Lucca Caldeira,garciagael@example.com
+C0097,Ana Sophia Marques,Comercial,Técnicas de Negociação,Concluído,07-10-2026,G001,Brenda Alves,samuel32@example.net
+C0098,Evelyn Silva,Marketing,Marketing Digital Essencial,Pendente,2026-10-17,G005,Emanuel Sampaio,rfernandes@example.org
+C0099,Sra. Sabrina Guerra,Recursos Humanos,LGPD Básico,Vencido,21/09/2026,G006,Lucca Caldeira,garciagael@example.com
+C0100,Diogo Rezende,Tecnologia da Informação,Boas Práticas de Cloud,Concluído,31/07/2026,G002,Yago Borges,bandrade@example.org
+C0101,Srta. Bianca Vasconcelos,Operações,5S na Prática,Concluído,21-10-2026,G003,Igor Montenegro,novaismiguel@example.net
+C0102,hellena cavalcanti,Marketing,LGPD Básico,Pendente,2026-09-10,G005,Emanuel Sampaio,rfernandes@example.org
+C0103,Dra. Nicole Aragão,Operações,LGPD Básico,Concluído,09/08/2026,G003,Igor Montenegro,novaismiguel@example.net
+C0104,Isadora Campos,recursos humanos,Diversidade e Inclusão,Vencido,2026-07-27,G006,Lucca Caldeira,garciagael@example.com
+C0105,Catarina Martins,Operações,Normas de Segurança do Trabalho (NR),Concluído,25/09/2026,G003,Igor Montenegro,novaismiguel@example.net
+C0106,Vitória Novais,  Comercial  ,Técnicas de Negociação,Concluído,2026-07-16,G001,Brenda Alves,samuel32@example.net
+C0107,  Luiza Sá  ,financeiro,Prevenção à Lavagem de Dinheiro,Concluído,11/09/2026,G004,Ísis Leão,manuelapastor@example.com
+C0108,Sofia Lima,Operações,5S na Prática,Pendente,05/11/2026,G003,Igor Montenegro,novaismiguel@example.net
+C0109,Melissa Castro,FINANCEIRO,Prevenção à Lavagem de Dinheiro,Concluído,2026-08-25,G004,Ísis Leão,manuelapastor@example.com
+C0110,Sra. Milena da Luz,operações,LGPD Básico,Concluído,08-11-2026,G003,Igor Montenegro,novaismiguel@example.net
+C0111,  João Guilherme Vargas  ,RECURSOS HUMANOS,LGPD Básico,Concluído,2026-10-02,G006,Lucca Caldeira,garciagael@example.com
+C0112,Raquel Pires,Comercial,LGPD Básico,Pendente,2026-11-27,G001,Brenda Alves,samuel32@example.net
+C0113,  João Guilherme Macedo  ,Comercial,LGPD Básico,Concluído,25-09-2026,G001,Brenda Alves,samuel32@example.net
+C0114,  João Pedro da Costa  ,Operações,Normas de Segurança do Trabalho (NR),Concluído,31/07/2026,G003,Igor Montenegro,novaismiguel@example.net
+C0115,Lucas Gabriel Dias,  Financeiro  ,LGPD Básico,Pendente,29-08-2026,G004,Ísis Leão,manuelapastor@example.com
+C0116,Anna Liz Carvalho,Comercial,CRM na Prática,Concluído,01-10-2026,G001,Brenda Alves,samuel32@example.net
+C0117,  Igor Gomes  ,  Tecnologia da Informação  ,Segurança da Informação,Concluído,07/09/2026,G002,Yago Borges,bandrade@example.org
+C0118,Srta. Hadassa Azevedo,Tecnologia da Informação,Boas Práticas de Cloud,Concluído,25-11-2026,G002,Yago Borges,bandrade@example.org
+C0119,Maria Luísa Farias,Recursos Humanos,Diversidade e Inclusão,Vencido,24/09/2026,G006,Lucca Caldeira,garciagael@example.com
+C0120,Nina Leão,Financeiro,Compliance Financeiro,Concluído,2026-09-19,G004,Ísis Leão,manuelapastor@example.com

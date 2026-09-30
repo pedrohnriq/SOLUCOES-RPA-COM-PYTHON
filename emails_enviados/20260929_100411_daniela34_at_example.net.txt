@@ -1,0 +1,33 @@
+Para: daniela34@example.net
+Assunto: Relatório Gerencial - Maria Clara Castro
+
+Olá, Maria Clara Castro.
+
+Segue o relatório consolidado da sua área (FINANCEIRO).
+
+=== BLOCO 1 - Projetos sob sua responsabilidade ===
+Total de projetos: 1
+  - Em andamento: 0
+  - Atrasado: 0
+  - Concluído dentro do prazo: 0
+  - Concluído com atraso: 1
+Percentual médio de execução (projetos ainda não concluídos): N/D
+Tempo médio de duração dos projetos concluídos: 105.0 dias
+Valor total orçado: R$ 26.326,37
+
+=== BLOCO 2 - Pendências de treinamento da sua área ===
+Total de treinamentos: 21
+Treinamentos pendentes: 2
+Treinamentos vencidos: 7
+Percentual de conformidade: 57.1%
+
+Colaboradores com treinamento vencido (cobrança imediata):
+  - Davi Luiz Da Luz
+  - Eduarda Araújo
+  - Isadora Da Mata
+  - Juan Cunha
+  - Lucas Gabriel Dias
+  - Noah Alves
+  - Pedro Henrique Abreu
+
+Relatório gerado automaticamente pela automação RPA.

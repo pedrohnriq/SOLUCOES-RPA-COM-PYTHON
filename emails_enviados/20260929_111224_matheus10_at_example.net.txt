@@ -1,0 +1,27 @@
+Para: matheus10@example.net
+Assunto: Relatório Gerencial - Yuri Da Rocha
+
+Olá, Yuri Da Rocha.
+
+Segue o relatório consolidado da sua área (TECNOLOGIA DA INFORMACAO).
+
+=== BLOCO 1 - Projetos sob sua responsabilidade ===
+Total de projetos: 3
+  - Em andamento dentro do prazo: 0
+  - Em andamento com atraso: 2
+  - Concluído dentro do prazo: 1
+  - Concluído com atraso: 0
+Percentual médio de execução (projetos ainda não concluídos): 77.5%
+Tempo médio de duração dos projetos concluídos: 341.0 dias
+Valor total orçado: R$ 451.844,39
+
+=== BLOCO 2 - Pendências de treinamento da sua área ===
+Total de treinamentos: 11
+Treinamentos pendentes: 3
+Treinamentos vencidos: 1
+Percentual de conformidade: 63.6%
+
+Colaboradores com treinamento vencido (cobrança imediata):
+  - Isadora Rios
+
+Relatório gerado automaticamente pela automação RPA.

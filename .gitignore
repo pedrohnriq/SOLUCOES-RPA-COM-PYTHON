@@ -1,0 +1,24 @@
+# Credenciais e configurações locais — NUNCA versionar
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs gerados pela automação
+logs/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ambiente de IDE
+.vscode/
+.idea/

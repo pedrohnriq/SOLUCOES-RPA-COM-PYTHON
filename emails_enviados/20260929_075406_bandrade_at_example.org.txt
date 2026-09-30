@@ -1,0 +1,27 @@
+Para: bandrade@example.org
+Assunto: Relatório Gerencial - Yago Borges
+
+Olá, Yago Borges.
+
+Segue o relatório consolidado da sua área (TECNOLOGIA DA INFORMACAO).
+
+=== BLOCO 1 - Projetos sob sua responsabilidade ===
+Total de projetos: 11
+  - Em andamento: 1
+  - Atrasado: 4
+  - Concluído dentro do prazo: 3
+  - Concluído com atraso: 3
+Percentual médio de execução (projetos ainda não concluídos): 34.0%
+Tempo médio de duração dos projetos concluídos: 170.5 dias
+Valor total orçado: R$ 2.065.472,89
+
+=== BLOCO 2 - Pendências de treinamento da sua área ===
+Total de treinamentos: 11
+Treinamentos pendentes: 3
+Treinamentos vencidos: 1
+Percentual de conformidade: 63.6%
+
+Colaboradores com treinamento vencido (cobrança imediata):
+  - Isadora Rios
+
+Relatório gerado automaticamente pela automação RPA.
